@@ -17,13 +17,14 @@
 * alert()  
 JavaScriptの警告ダイヤログの表示(HSPで少しやった感じのもの)
 * XSS  
-『あるWebページにアクセスした標的のブラウザ上で、攻撃者が任意のコードを実行し得るバグ、あるいはそれを用いた攻撃手法のこと』  
-＜参考＞<http://xss.hatenablog.jp/entry/2014/12/03/154132>  
-※ぶっちゃけこれ、XSSの問題じゃなくてalert()の表示の問題なのかな？  
+『あるWebページにアクセスした標的のブラウザ上で、攻撃者が任意のコードを実行し得るバグ、あるいはそれを用いた攻撃手法のこと』  ＜参考＞<http://xss.hatenablog.jp/entry/2014/12/03/154132> ※ぶっちゃけこれ、XSSの問題じゃなくてalert()の表示の問題なのかな？  
 * .toSource()  
 .toSource前の物の中身が見れる  
 * FireFoxというWebブラウザの存在
-* 
+* String.fromCharCode()  
+decodeをしてくれるJavaScriptのやーつ？  
+＜参考＞<https://ja.wikibooks.org/wiki/JavaScript/String/fromCharCode>  
+＜参考＞<http://ideone.com/GR6iuH>
 
 #### 一言
 JS知らないからwriteup読んでも全くわからんかった。いろんなwriteup読んでみたらFireFox使ってalert.toSource()を使ってflagの部分を直接取ってきてるものあってこっちならまだ理解はできた。ってことでこれを機にFireFoxを入れた。  
