@@ -27,6 +27,7 @@ decodeをしてくれるJavaScriptのやーつ？
 ＜参考＞<http://ideone.com/GR6iuH>
 
 #### 一言
-JS知らないからwriteup読んでも全くわからんかった。いろんなwriteup読んでみたらFireFox使ってalert.toSource()を使ってflagの部分を直接取ってきてるものあってこっちならまだ理解はできた。ってことでこれを機にFireFoxを入れた。  
+JS知らないからwriteup読んでも全くわからんかった。いろんなwriteup読んでみたらFireFox使ってalert.toSource()を使ってflagの部分を直接取ってきてるものあってこっちならまだ理解はできた。ってことでこれを機にFireFoxを入れた。Clomeでできたからやっぱいらないやw  
 ＜参考＞<https://wiki.mma.club.uec.ac.jp/ytoku/CTF/Writeup/AdventCalendarCTF2014/2014-12-02>  
+![81](https://cloud.githubusercontent.com/assets/14175217/11521914/ceb70528-98f4-11e5-8f1e-5552d37d4a74.png)  
 使える言語増やさんとあかん。だけどぶっちゃけ組みたいものが出来てから増やしていきたいだからまぁいいやw
