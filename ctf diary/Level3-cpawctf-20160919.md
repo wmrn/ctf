@@ -22,8 +22,8 @@ Q21と同じようにとりあえず実行してみたら残念ながら何に�
 ### Q26.[PPC]Remainder theorem
 とりあえずコード書いて計算してもらった。どうやら、int型は32ビットで9桁までしか計算できないらしい…。  
 そのせいでエラー出たから、いろいろ調べて「unsigned long long int」使って何とか出来た！  
-一応書いたコード一緒に上げておく。  
 ＜参考＞<http://seclan.dll.jp/c99d/c99d05.htm>  
+＜参考＞<https://github.com/wmrn/ctf_for_myself/blob/master/cpaw_q26.c>  
 
 ### Q29.[Crypto] Common World
 計算するだけなのは知ってるけどこの桁数対応してる言語に慣れてないから疲れてあきらめた。  
