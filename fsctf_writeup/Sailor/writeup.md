@@ -1,7 +1,7 @@
 # Salilor
 ## ＜手順＞
 1. これがセマフォア信号？だということに気が付く。
-＜参考＞<https://ja.wikipedia.org/wiki/%E6%89%8B%E6%97%97%E4%BF%A1%E5%8F%B7>
+<https://ja.wikipedia.org/wiki/%E6%89%8B%E6%97%97%E4%BF%A1%E5%8F%B7>
 2. 全て大文字のアルファベットと書いてあるので頑張って読む。
 3. 「PASSWORD_IS_YOUSORO」
 3. 終了。
